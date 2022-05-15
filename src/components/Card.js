@@ -12,7 +12,7 @@ function Card() {
           weatherData.map((item, index) => (
             <div key={index} className="weather-card">
               <div className="card-header">
-                <h2>{days[new Date(item.dt * 1000).getDay]}</h2>
+                <h2>{days[new Date(item.dt * 1000).getDay()]}</h2>
               </div>
               <div className="card-body">
                 <img
