@@ -8,7 +8,9 @@ export const WeatherProvider = ({ children }) => {
   const [weatherData, setWeatherData] = useState([]);
   const [city, setCity] = useState(citiesJSON[43]);
 
-  useEffect(() => {}, [city]);
+  useEffect(() => {
+    WeatherApi();
+  }, [city]);
 
   const WeatherApi = async () => {
     const url = "https://api.openweathermap.org/data/2.5/";

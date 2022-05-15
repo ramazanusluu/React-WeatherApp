@@ -22,8 +22,8 @@ function Header() {
           value={city.name}
           onChange={changeCityName}
         >
-          {citiesJSON.map((item, key) => (
-            <option key={key} value={item.name}>
+          {citiesJSON.map((item, index) => (
+            <option key={index} value={item.name}>
               {item.name}
             </option>
           ))}
