@@ -1,10 +1,12 @@
 import "./App.css";
+import Container from "./components/Container";
+import { WeatherProvider } from "./context/WeatherContext";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hava Durumu</h1>
-    </div>
+    <WeatherProvider>
+      <Container />
+    </WeatherProvider>
   );
 }
 
