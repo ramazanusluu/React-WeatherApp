@@ -6,7 +6,7 @@
 - Dark & Light Theme arasında geçiş yapılabilir.
 
 ## Ligth Theme
-![Ekran görüntüsü 2022-05-15 181640](https://user-images.githubusercontent.com/98388628/168481281-0bb9f799-456f-4729-b6fe-c1db3cb3e6a3.png)
+![Ekran görüntüsü 2022-05-15 192521](https://user-images.githubusercontent.com/98388628/168483228-f0a35078-23b2-46cf-9fb9-c693a996e9d2.png)
 
 ## Dark Theme
-![Ekran görüntüsü 2022-05-15 181751](https://user-images.githubusercontent.com/98388628/168481330-4970ea17-0b00-419b-829d-61e814eac8d6.png)
+![Ekran görüntüsü 2022-05-15 192603](https://user-images.githubusercontent.com/98388628/168483248-5ecafde8-5967-4fec-9466-4aeb8bf9d11b.png)
